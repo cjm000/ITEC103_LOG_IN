@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITEC103_LOG_IN/1.0.0": {
+        "runtime": {
+          "ITEC103_LOG_IN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITEC103_LOG_IN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
